@@ -1,1 +1,1 @@
-# gs-eks-mysql
+# gs-eks-mariadb
